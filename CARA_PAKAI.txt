@@ -1,0 +1,13 @@
+BELAJAR TKA SDN 1 PETUGURAN (BAHASA INDONESIA & MATEMATIKA)
+Dikembangkan oleh: Titik Ambarwati - Guru SD Negeri 1 Petuguran
+=================================================================
+
+CARA MENGGUNAKAN (OFFLINE DI LAPTOP / KOMPUTER):
+1. Ekstrak seluruh isi file ZIP ini ke dalam satu folder.
+2. Pastikan file "index.html" dan folder "assets" berada di folder yang sama.
+3. Klik dua kali (double-click) file "index.html".
+4. Aplikasi akan langsung terbuka di browser (Chrome / Edge / Firefox) tanpa perlu internet dan tanpa menginstal program apa pun.
+
+CARA MENGGUNAKAN (ONLINE DI HOSTING SEKOLAH):
+1. Unggah seluruh isi folder (index.html beserta folder assets) ke hosting sekolah, cPanel, atau GitHub Pages.
+2. Akses melalui alamat web sekolah.
